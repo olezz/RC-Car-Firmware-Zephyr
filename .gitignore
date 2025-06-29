@@ -1,0 +1,5 @@
+**/zephyr
+**/build
+**/tools
+**/modules
+**/.west
